@@ -11,3 +11,5 @@ pandas
 yfinance
 pymemgpt
 python-dotenv
+pyautogen[retrievechat]
+flaml[automl]
